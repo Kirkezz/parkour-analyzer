@@ -8,10 +8,10 @@ On Windows 🪟, go to https://nodejs.org/ 💚 and https://win.rustup.rs/ ⚙�
 
 On Linux 🐧 / Windows 🪟:
 ```
-cd parkour-tauri 🏃‍♂️💨
-npm install 📥✅
-npm run tauri build 🚀🔥
-cd src-tauri/target/release/bundle/ 🎁📂
+cd parkour-tauri
+npm install
+npm run tauri build
+cd src-tauri/target/release/bundle/
 ```
 
 ## Release 🎉🥳🚢
